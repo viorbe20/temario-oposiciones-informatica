@@ -36,7 +36,7 @@ Cada tema contiene:
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/tu-usuario/temario-oposiciones-informatica.git
+git clone https://github.com/viorbe20/temario-oposiciones-informatica.git
 
 # Entra al proyecto
 cd temario-oposiciones-informatica
