@@ -6,7 +6,7 @@ Bienvenidx al repositorio de estudio colaborativo de ayuda para las oposiciones 
 
 ---
 
-## 🗂️Estructura del temario
+## 🗂️ Estructura del temario
 
 El temario se divide en dos grandes bloques:
 
